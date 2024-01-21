@@ -1,0 +1,22 @@
+
+.comment{
+    display: flex;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 7px;
+
+
+}
+
+  
+.comment img{
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 25px;
+    margin: 0px 20px;
+}
+.comment p{
+    text-align: left;
+}

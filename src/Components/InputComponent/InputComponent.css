@@ -1,0 +1,11 @@
+input{
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid orange;
+}
+
+label{
+    font-size: large;
+    font-weight: bold;
+}
